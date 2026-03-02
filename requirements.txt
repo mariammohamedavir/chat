@@ -1,9 +1,5 @@
 streamlit
-pandas
-numpy
-Pillow
-scikit-learn
 tensorflow
-openai
-python-dotenv
+numpy
 nltk
+scikit-learn
