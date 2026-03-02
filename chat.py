@@ -6,6 +6,9 @@ import pickle
 from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import load_model
 
+import nltk
+nltk.download('punkt')
+nltk.download('wordnet')
 # ==============================
 # Download required NLTK data
 # ==============================
